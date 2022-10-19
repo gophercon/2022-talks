@@ -16,7 +16,7 @@ In this tutorial we will walk through the different _flavours_ of randomness, fr
 - A few useful repos:
     - drand repo: https://github.com/drand/drand/
     - tlock repo: https://github.com/drand/tlock/
-    - tlock-js repo: https://github.com/drand/tlock/
+    - tlock-js repo: https://github.com/drand/tlock-js/
 - Test Timelock Encryption in your browser: https://timevault.drand.love/
 - Stay tuned for more info and blog posts around randomness or timelock encryption on drand's blog: https://drand.love/blog/
 - Wants to run a drand node and join the League of Entropy? Join us: https://drand.love/partner-with-us/
