@@ -20,6 +20,6 @@ Go does concurrent garbage collection (GC), but what does that mean and what are
 
 A PDF copy of the slides as of 12th Oct 2022 can be found [here](./pacer_deep_dive_20221012.pdf).
 
-Slides may be updataed based on feedback, for an up-to-date version of the slides, please check Speaker Deck [here](https://speakerdeck.com/madhavjivrajani/control-theory-and-concurrent-garbage-collection-a-deep-dive-into-the-go-gc-pacer).
+Slides may be updated based on feedback, for an up-to-date version of the slides, please check Speaker Deck [here](https://speakerdeck.com/madhavjivrajani/control-theory-and-concurrent-garbage-collection-a-deep-dive-into-the-go-gc-pacer).
 
 Please note that embedded links are not clickable while viewing slides on Speaker Deck, you might have to download and view as a PDF in order to access any links that are embedded in the presentation.
