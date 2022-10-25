@@ -5,7 +5,7 @@
 * See presentation [description](https://www.gophercon.com/agenda/speakers/1705583), for detail.
 * Project link - https://github.com/vladimirvivien/go4vl
 
-## Running the presetnation
+## Running the presentation
 
 1. Download files from project directory
 2. From your web browser, file `index.html` (in project)
