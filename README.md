@@ -1,6 +1,7 @@
 # 2022-talks
 Slides and Links for 2022 GopherCon talks sorted alphabetically:
 
+- Adam Bernot - [7 Jobs, 1 Year: Using Go in Different Workplaces](./AdamBernot-7Jobs1Year/README.md)
 - Benji Versterby - [Secure Coding in Go: Avoiding Common Vulnerabilities to Better Secure Your Code](./BenjiVesterby-SecureCodingInGo/README.md)
 - Donia Chaiehloudj - [TinyGo: Getting the Upper Hen](./DoniaChaiehloudj-TinyGo-UpperHen/README.md)
 - Dylan Bourque - [Kraken Wrangling for Dummies](./DylanBourque-KrakenWranglingForDummies/README.md)
