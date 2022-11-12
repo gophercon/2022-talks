@@ -9,6 +9,7 @@ Slides and Links for 2022 GopherCon talks sorted alphabetically:
 - Jesús Espino - [Hello World, from the code to the screen](./JesúsEspino-HelloWorldFromTheCodeToTheScreen/README.md)
 - Jordan Neufeld - [Exploring Network Programming By Building A Toxiproxy Clone](./JordanNeufeld-ExploringNetworkProgrammingByBuildingAToxiproxyClone/README.md)
 - Juan Brandao - [Go, the Data Engineer's Missing Tool?](./JuanBrandao-GoTheDataEngineersMissingTool/README.md)
+- Katie Hockman - [Fuzz Testing Made Easy](./KatieHockman-FuzzTestingMadeEasy/README.md)
 - Kyle Conroy - [Safe, Fast, and Easy: Building a Plugin System with WebAssembly](./KyleConroy-PluginSystemWebAssembly/README.md)
 - Madhav Jivrajani - [Control Theory and Concurrent Garbage Collection: A Deep Dive Into The Go GC Pacer](./MadhavJivrajani-GCPacerDeepDive/README.md)
 - Patricio Whittingslow - [Aerospace Go](./PatricioWhittingslow-AerospaceGo/README.md)
