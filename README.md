@@ -14,6 +14,7 @@ Slides and Links for 2022 GopherCon talks sorted alphabetically:
 - Madhav Jivrajani - [Control Theory and Concurrent Garbage Collection: A Deep Dive Into The Go GC Pacer](./MadhavJivrajani-GCPacerDeepDive/README.md)
 - Patricio Whittingslow - [Aerospace Go](./PatricioWhittingslow-AerospaceGo/README.md)
 - Takeshi Yoneda - [CGO-less Foreign Function Interface with WebAssembly](./TakeshiYoneda-CGOlessForeignFunctionInterfaceWithWasm/README.md)
+- Tom Lyons - [How I Write HTTP Clients After (almost) 7 Years](./TomLyons-HowIWriteHTTPClientsAfter(almost)7Years/README.md)
 - Vladimir Vivien - [Realtime Video Capture on Linux with Go](./vladimirvivien-RealtimeVideoCaptureLinux/README.md)
 - Yolan Romailler - [101 Randomness](./YolanRomailler-101Randomness/README.md)
 - Zach Musgrave - [Performance in a High-throughput SQL Database: Real-world Profiler Tips](./ZachMusgrave-PerformanceHighThroughputSQLDatabase/README.md)
