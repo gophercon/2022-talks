@@ -13,6 +13,7 @@ Slides and Links for 2022 GopherCon talks sorted alphabetically:
 - Kyle Conroy - [Safe, Fast, and Easy: Building a Plugin System with WebAssembly](./KyleConroy-PluginSystemWebAssembly/README.md)
 - Madhav Jivrajani - [Control Theory and Concurrent Garbage Collection: A Deep Dive Into The Go GC Pacer](./MadhavJivrajani-GCPacerDeepDive/README.md)
 - Patricio Whittingslow - [Aerospace Go](./PatricioWhittingslow-AerospaceGo/README.md)
+- Rebecca Bilbro - [How to Build a Distributed System](./RebeccaBilbro-HowtoBuildaDistributedSystem/README.md)
 - Takeshi Yoneda - [CGO-less Foreign Function Interface with WebAssembly](./TakeshiYoneda-CGOlessForeignFunctionInterfaceWithWasm/README.md)
 - Tom Lyons - [How I Write HTTP Clients After (almost) 7 Years](./TomLyons-HowIWriteHTTPClientsAfter(almost)7Years/README.md)
 - Vladimir Vivien - [Realtime Video Capture on Linux with Go](./vladimirvivien-RealtimeVideoCaptureLinux/README.md)
