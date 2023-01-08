@@ -2,7 +2,6 @@
 Slides and Links for 2022 GopherCon talks sorted alphabetically:
 
 - Adam Bernot - [7 Jobs, 1 Year: Using Go in Different Workplaces](./AdamBernot-7Jobs1Year/README.md)
-- Samantha Coyle - [A Journey Through Integration Testing with Go - What Could Go Wrong?](./SamanthaCoyle-AJourneyThroughIntegrationTestingWithGo-WhatCouldGoWrong%3F/README.md)
 - Benji Versterby - [Secure Coding in Go: Avoiding Common Vulnerabilities to Better Secure Your Code](./BenjiVesterby-SecureCodingInGo/README.md)
 - Donia Chaiehloudj - [TinyGo: Getting the Upper Hen](./DoniaChaiehloudj-TinyGo-UpperHen/README.md)
 - Dylan Bourque - [Kraken Wrangling for Dummies](./DylanBourque-KrakenWranglingForDummies/README.md)
@@ -15,6 +14,7 @@ Slides and Links for 2022 GopherCon talks sorted alphabetically:
 - Madhav Jivrajani - [Control Theory and Concurrent Garbage Collection: A Deep Dive Into The Go GC Pacer](./MadhavJivrajani-GCPacerDeepDive/README.md)
 - Patricio Whittingslow - [Aerospace Go](./PatricioWhittingslow-AerospaceGo/README.md)
 - Rebecca Bilbro - [How to Build a Distributed System](./RebeccaBilbro-HowtoBuildaDistributedSystem/README.md)
+- Samantha Coyle - [A Journey Through Integration Testing with Go - What Could Go Wrong?](./SamanthaCoyle-AJourneyThroughIntegrationTestingWithGo-WhatCouldGoWrong%3F/README.md)
 - Takeshi Yoneda - [CGO-less Foreign Function Interface with WebAssembly](./TakeshiYoneda-CGOlessForeignFunctionInterfaceWithWasm/README.md)
 - Tom Lyons - [How I Write HTTP Clients After (almost) 7 Years](./TomLyons-HowIWriteHTTPClientsAfter(almost)7Years/README.md)
 - Vladimir Vivien - [Realtime Video Capture on Linux with Go](./vladimirvivien-RealtimeVideoCaptureLinux/README.md)
