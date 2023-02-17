@@ -14,6 +14,3 @@ A recording of the talk is available [here (youtube link)](https://www.youtube.c
 ## Slides
 
 A PDF copy of the slides can be found [here](./MakeYourDataProcessingGo-slides.pdf).
-
-
-
