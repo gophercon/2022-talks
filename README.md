@@ -15,6 +15,7 @@ Slides and Links for 2022 GopherCon talks sorted alphabetically:
 - Patricio Whittingslow - [Aerospace Go](./PatricioWhittingslow-AerospaceGo/README.md)
 - Rebecca Bilbro - [How to Build a Distributed System](./RebeccaBilbro-HowtoBuildaDistributedSystem/README.md)
 - Samantha Coyle - [A Journey Through Integration Testing with Go - What Could Go Wrong?](./SamanthaCoyle-AJourneyThroughIntegrationTestingWithGo-WhatCouldGoWrong%3F/README.md)
+- Robert Burke - [How Apache Beam Makes Your Data Processing Go!](./RobertBurke-HowApacheBeamMakesYourDataProcessingGo/README.md)
 - Takeshi Yoneda - [CGO-less Foreign Function Interface with WebAssembly](./TakeshiYoneda-CGOlessForeignFunctionInterfaceWithWasm/README.md)
 - Tom Lyons - [How I Write HTTP Clients After (almost) 7 Years](./TomLyons-HowIWriteHTTPClientsAfter(almost)7Years/README.md)
 - Vladimir Vivien - [Realtime Video Capture on Linux with Go](./vladimirvivien-RealtimeVideoCaptureLinux/README.md)
